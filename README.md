@@ -1,2 +1,72 @@
 # JonathanLindskog
 Energy/Grid
+# Hi, I am Jonathan, an aspiring grid/power engineer.
+
+<p align="center">
+  <a href="./CV_Jonathan_Fribert_Lindskog_2026.pdf"><img src="https://img.shields.io/badge/Download CV-FF4B4B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
+  <a href="https://www.linkedin.com/in/jonathan-fribert-lindskog-69782829b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://t.me/JontheFL"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://wa.me/46724481969"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+</p>
+
+---
+
+## I am looking for a 5 month master thesis project
+* Temporal/geographic load shift of data centers
+* 
+
+## Me and my motivations
+
+I am an engineering student specialized in the intersection of physics, material sciences, and modern energy infrastructures. My academic motivation grounds itself in my deep-rooted passion for understanding the natural world, and has evolved into personal goals of being part of creating a resiliant future with decentralized systems. At Lund University I study nanotech engineering, which is a degree that gives a very broad skillset, despite sounding narrow. It covers mathematics, physics, chemistry, material sciences, electronics, chip fabrication (in cleanroom environment), biology and more. Since early 2020 I have without interruption been in the Bitcoin rabbithole, and in order to bridge what I learn at uni with Bitcoin I chose to pursue a masters in Energy Systems. I am interested in utilizing mining for demand response, monetize curtailed energy (renewables or flaring), second layer protocols for P2P energy trading, and anything else Bitcoin.
+
+My first masters year I spend at the Techincal University of Munich (TUM), which offers a great range of courses on informatics and energy systems. My time here finishes at the end of July, after which I want to find a master thesis tied to Bitcoin and then ultimately find work in the space.
+
+## Work history & christmas presents
+
+Before starting uni I worked for two years at a start-up construction company. The company worked mainly with HVAC, we renovated ventilation systems in rental complexes and built heating infrastructure for schools. It was incredibly fun and I quickly climbed to be head project manager of a €1M project outside of Stockholm at the age of 21. In my role I was responsible for on-site execution, educating new employees, hiring and firing, customer relations, material purchases and planning. I have a lot to thank my bosses for, they are austrian, Laissez-faire, goldbug libertarians, who loved to discuss economics with me. I remember starting out with "inflation good".
+I ultimately quit to travel SE Asia before pursing an engineering degree, which was ultimately my goal.
+
+I have more (less relevant) work experience aswell, feel free to ask. It ranges from sales to event-worker. My favourite is probably my dedication to selling christmas gifts as a kid. I started out at the age of 8 or 9, and developed a system I iterated on every year until the age of 15. It gave me a sense of pride knowing that I had worked for all of my smart phones and some other gadgets. 
+
+## Education
+
+* **M.Sc. in Energy Systems** – **LTH (Lund University), Sweden** (Current)
+    * *Exchange Year:* **TUM (Technical University of Munich), Germany** *(School of Computation, Information and Technology – CIT)*
+* **B.Sc. in Engineering Nanotechnology** – **LTH (Lund University), Sweden**
+
+---
+
+## Technical Skillset
+
+### Programming
+* **Python**  Data analysis (`pandas`, `scipy`), Machine Learning (`PyTorch`)
+* **PowerFactory** simulate the power grid (learning)
+* **Java**  Object-oriented software development and systems engineering
+* **SystemVerilog**  Low-level language
+
+### Core Domains of Interest
+* **Decentralized Systems & Bitcoin:** Exploring the intersection of energy grids, Bitcoin, load-balancing, virtual batteries, economic optimization, P2P energy trading structures and district heating.
+
+---
+
+## Sports
+Not work related, but I am passionate about skiing, windsurfing, climbing and hiking and that deserves a mention, especially in Switzerland!
+
+---
+
+## Connect With Me
+
+* **Telegram:** [@JontheFL](https://t.me/JontheFL)
+* **Phone / WhatsApp:** [+46 72 448 19 69](https://wa.me/46724481969)
+* **LinkedIn:** [Jonathan Fribert Lindskog](https://www.linkedin.com/in/jonathan-fribert-lindskog-69782829b/)
+* **GitHub Repositories:** [JontheFL Projects](https://github.com/JontheFL?tab=repositories)
+
+---
+<p align="center">
+  <i>"If our liberal markets hate monopolies, why is the backbone just that?"</i>
+</p>
+
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://jonthefl.github.io/" alt="Scan to visit portfolio" width="150" height="150" /><br>
+  <i>QR for this webpage</i>
+</p>
