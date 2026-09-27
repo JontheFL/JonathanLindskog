@@ -1,5 +1,5 @@
 # JonathanLindskog
-Energy/Grid
+
 # Hi, I am Jonathan, an aspiring grid/power engineer.
 
 <p align="center">
@@ -11,22 +11,19 @@ Energy/Grid
 
 ---
 
-## I am looking for a 5 month master thesis project
-* Temporal/geographic load shift of data centers
-* 
+## I am looking for a 5 month master thesis project starting January 2027, here are some topic ideas
+* Fast frequency response (FFR) and synthetic inertia from distributed flexible computational loads in low-inertia grids
+* Participation of large-scale flexible loads in the FCR-D and mFRR ancillary service markets
+* Behind-the-meter flexible loads as virtual transmission capacity for stranded wind and solar
+* Optimal sizing and co-optimization of battery storage, flexible loads and data center services
 
-## Me and my motivations
+## Why this industry?
 
-I am an engineering student specialized in the intersection of physics, material sciences, and modern energy infrastructures. My academic motivation grounds itself in my deep-rooted passion for understanding the natural world, and has evolved into personal goals of being part of creating a resiliant future with decentralized systems. At Lund University I study nanotech engineering, which is a degree that gives a very broad skillset, despite sounding narrow. It covers mathematics, physics, chemistry, material sciences, electronics, chip fabrication (in cleanroom environment), biology and more. Since early 2020 I have without interruption been in the Bitcoin rabbithole, and in order to bridge what I learn at uni with Bitcoin I chose to pursue a masters in Energy Systems. I am interested in utilizing mining for demand response, monetize curtailed energy (renewables or flaring), second layer protocols for P2P energy trading, and anything else Bitcoin.
-
-My first masters year I spend at the Techincal University of Munich (TUM), which offers a great range of courses on informatics and energy systems. My time here finishes at the end of July, after which I want to find a master thesis tied to Bitcoin and then ultimately find work in the space.
+Energy production is becoming more and more intermittent, inertia is turning offline and critical supply-chains are exposed to geopolitical conflict. We need active control methods, optimal capacity planning of generation, and to find ways to increase the use cases of the capacity we have in both generation, transmission and distribution. Sector coupling, monetizing stranded assets and curtailed energy are things I think about on a daily basis. I see this industry as the most important one to ensure a safe and prosperous future, so I am learning as much as I can, to contribute as much as I can.
 
 ## Work history & christmas presents
 
-Before starting uni I worked for two years at a start-up construction company. The company worked mainly with HVAC, we renovated ventilation systems in rental complexes and built heating infrastructure for schools. It was incredibly fun and I quickly climbed to be head project manager of a €1M project outside of Stockholm at the age of 21. In my role I was responsible for on-site execution, educating new employees, hiring and firing, customer relations, material purchases and planning. I have a lot to thank my bosses for, they are austrian, Laissez-faire, goldbug libertarians, who loved to discuss economics with me. I remember starting out with "inflation good".
-I ultimately quit to travel SE Asia before pursing an engineering degree, which was ultimately my goal.
-
-I have more (less relevant) work experience aswell, feel free to ask. It ranges from sales to event-worker. My favourite is probably my dedication to selling christmas gifts as a kid. I started out at the age of 8 or 9, and developed a system I iterated on every year until the age of 15. It gave me a sense of pride knowing that I had worked for all of my smart phones and some other gadgets. 
+As I was finishing high school I worked at a start-up construction company for two years. The company worked mainly with HVAC, we renovated ventilation systems in rental complexes and built heating infrastructure for schools. It was incredibly fun and I quickly climbed to be head project manager of a €1M project outside of Stockholm at the age of 21. In my role I was responsible for on-site execution, educating new employees, hiring and firing, customer relations, material purchases and planning.
 
 ## Education
 
@@ -36,16 +33,11 @@ I have more (less relevant) work experience aswell, feel free to ask. It ranges 
 
 ---
 
-## Technical Skillset
-
 ### Programming
+** **PowerFactory** simulate the power grid (learning)
 * **Python**  Data analysis (`pandas`, `scipy`), Machine Learning (`PyTorch`)
-* **PowerFactory** simulate the power grid (learning)
 * **Java**  Object-oriented software development and systems engineering
 * **SystemVerilog**  Low-level language
-
-### Core Domains of Interest
-* **Decentralized Systems & Bitcoin:** Exploring the intersection of energy grids, Bitcoin, load-balancing, virtual batteries, economic optimization, P2P energy trading structures and district heating.
 
 ---
 
@@ -57,14 +49,11 @@ Not work related, but I am passionate about skiing, windsurfing, climbing and hi
 ## Connect With Me
 
 * **Telegram:** [@JontheFL](https://t.me/JontheFL)
+* **Signal:** [@JonathanFL.59]
 * **Phone / WhatsApp:** [+46 72 448 19 69](https://wa.me/46724481969)
 * **LinkedIn:** [Jonathan Fribert Lindskog](https://www.linkedin.com/in/jonathan-fribert-lindskog-69782829b/)
-* **GitHub Repositories:** [JontheFL Projects](https://github.com/JontheFL?tab=repositories)
 
----
-<p align="center">
-  <i>"If our liberal markets hate monopolies, why is the backbone just that?"</i>
-</p>
+* **GitHub Repositories:** [JontheFL Projects](https://github.com/JontheFL?tab=repositories)
 
 <p align="center">
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://jonthefl.github.io/" alt="Scan to visit portfolio" width="150" height="150" /><br>
