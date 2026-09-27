@@ -20,7 +20,7 @@
 
 Energy production is becoming more and more intermittent, inertia is turning offline and critical supply-chains are exposed to geopolitical conflict. We need active control methods, optimal capacity planning of generation, and to find ways to increase the use cases of the capacity we have in both generation, transmission and distribution. Sector coupling, monetizing stranded assets and curtailed energy are things I think about on a daily basis. I see this industry as the most important one to ensure a safe and prosperous future, so I am learning as much as I can, to contribute as much as I can.
 
-## Work history & christmas presents
+## Work history
 
 As I was finishing high school I worked at a start-up construction company for two years. The company worked mainly with HVAC, we renovated ventilation systems in rental complexes and built heating infrastructure for schools. It was incredibly fun and I quickly climbed to be head project manager of a €1M project outside of Stockholm at the age of 21. In my role I was responsible for on-site execution, educating new employees, hiring and firing, customer relations, material purchases and planning.
 
