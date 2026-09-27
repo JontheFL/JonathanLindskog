@@ -50,7 +50,7 @@ Not work related, but I am passionate about skiing, windsurfing, climbing and hi
 * **Telegram:** [@JontheFL](https://t.me/JontheFL)
 * **Signal:** [@JonathanFL.59]
 * **Phone / WhatsApp:** [+46 72 448 19 69](https://wa.me/46724481969)
-* **LinkedIn:** [Jonathan Fribert Lindskog](https://www.linkedin.com/in/jonathan-fribert-lindskog-69782829b/)
+* **LinkedIn:** [Jonathan Fribert Lindskog](https://www.linkedin.com/in/jonathan-fribert-lindskog-69782829b/) (quite inactive with social media)
 
 * **GitHub Repositories:** [JontheFL Projects](https://github.com/JontheFL?tab=repositories)
 
