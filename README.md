@@ -1,6 +1,5 @@
-# JonathanLindskog
-
-# Hi, I am Jonathan, an aspiring grid/power engineer.
+# Hi, I am Jonathan, an aspiring grid/power engineer
+## I'm looking for a 5 month master thesis starting January 2027
 
 <p align="center">
   <a href="./CV_Jonathan_Fribert_Lindskog_2026.pdf"><img src="https://img.shields.io/badge/Download CV-FF4B4B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
@@ -11,7 +10,7 @@
 
 ---
 
-## I am looking for a 5 month master thesis project starting January 2027, here are some topic ideas
+### Master thesis topic ideas
 * Fast frequency response (FFR) and synthetic inertia from distributed flexible computational loads in low-inertia grids
 * Participation of large-scale flexible loads in the FCR-D and mFRR ancillary service markets
 * Behind-the-meter flexible loads as virtual transmission capacity for stranded wind and solar
